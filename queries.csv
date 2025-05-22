@@ -1,0 +1,4 @@
+email,name,project_title,question,response,timestamp,feedback_rating
+student123@college.edu,John Doe,AI-based Chatbot for Internship Assistance,How do I write my internship resume?,Follow these steps to create a strong internship resume: 1. Include a clear objective. 2. Highlight relevant coursework and projects. 3. List technical skills. 4. Use action verbs to describe achievements.,2025-05-22 12:44:00,4
+student456@college.edu,Jane Smith,Machine Learning for Predictive Analytics,What are the best final-year projects in AI?,Consider projects like: 1. Predictive text generation. 2. Image classification with CNNs. 3. Chatbot development using NLP.,2025-05-22 12:44:00,3
+student789@college.edu,Alice Brown,Cybersecurity Threat Detection System,How can I prepare for my upcoming interview?,Practice these: 1. Common technical questions. 2. Behavioral scenarios. 3. Mock interviews with peers.,2025-05-22 12:44:00,5
